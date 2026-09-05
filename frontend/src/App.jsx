@@ -220,8 +220,6 @@ function AuthenticatedApp({ auth, onLogout }) {
           <div className="flex items-center gap-4">
             <span>50 Static NSE Symbols</span>
             <span>•</span>
-            <span>6h Pre-seeded History</span>
-            <span>•</span>
             <span>SQLite Persistence</span>
           </div>
         </footer>
