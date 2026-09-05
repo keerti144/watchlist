@@ -196,7 +196,7 @@ function AuthenticatedApp({ auth, onLogout }) {
         />
 
         <TimeTravelBar
-          asOf={asOf}
+          asOf={data.as_of}
           setAsOf={setAsOf}
           onResetSession={updateSessionNow}
           serverTime={data.server_time}
