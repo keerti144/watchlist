@@ -1,4 +1,4 @@
-# Context-Aware Smart Watchlist
+# Baseline Watchlist
 
 A full-stack smart stock watchlist built with FastAPI, SQLite, yfinance, React, Vite, and Tailwind CSS.
 

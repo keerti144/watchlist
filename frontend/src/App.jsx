@@ -141,7 +141,7 @@ function AuthenticatedApp({ auth, onLogout }) {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-xl sm:text-2xl font-bold tracking-tight text-white">
-                  Context-Aware Smart Watchlist
+                  Baseline Watchlist
                 </h1>
                 <span className="px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 text-[11px] font-mono font-semibold">
                   GROWW HACKATHON
@@ -216,7 +216,7 @@ function AuthenticatedApp({ auth, onLogout }) {
         />
 
         <footer className="pt-6 border-t border-slate-800/60 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 font-mono gap-3">
-          <p>© 2026 Context-Aware Smart Watchlist • FastAPI Backend + React Frontend</p>
+          <p>© 2026 Baseline Watchlist • FastAPI Backend + React Frontend</p>
           <div className="flex items-center gap-4">
             <span>50 Static NSE Symbols</span>
             <span>•</span>

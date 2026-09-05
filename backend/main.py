@@ -606,7 +606,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Live & Replay Context-Aware Smart Watchlist API",
+    title="Live & Replay Baseline Watchlist API",
     description="Market-hours-independent engine with yfinance quotes, replay simulation, news feeds, and 5-factor scoring.",
     version="2.1.0",
     lifespan=lifespan
